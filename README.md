@@ -1,0 +1,1 @@
+A tiny Youtube replacement player for XBMC/Kodi that used [pafy](https://github.com/np1/pafy).
